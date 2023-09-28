@@ -1,0 +1,1 @@
+(()=>{let e=new Date("1991-05-15"),l=(new Date("2014-11-09"),new Date),t=e.getFullYear()-l.getFullYear();console.log(t)})();
